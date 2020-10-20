@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DatafusionApplication {
 
 	public static void main(String[] args) {
+		
 		SpringApplication.run(DatafusionApplication.class, args);
 	}
 
